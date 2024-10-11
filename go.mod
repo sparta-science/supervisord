@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/gorilla/mux v1.8.1
 	github.com/gorilla/rpc v1.2.1
-	github.com/jessevdk/go-flags v1.5.0
+	github.com/jessevdk/go-flags v1.6.1
 	github.com/kardianos/service v1.2.2
 	github.com/ochinchina/go-daemon v0.1.5
 	github.com/ochinchina/go-ini v1.0.1
@@ -38,7 +38,7 @@ require (
 	github.com/robfig/cron/v3 v3.0.1 // indirect
 	github.com/rogpeppe/go-charset v0.0.0-20190617161244-0dc95cdf6f31 // indirect
 	github.com/stretchr/testify v1.7.1 // indirect
-	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
+	golang.org/x/sys v0.21.0 // indirect
 	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0 // indirect
 )
